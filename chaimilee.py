@@ -20,8 +20,7 @@ def main():
 
     with text_col:
         st.subheader("Hi! My name is Chaimi")
-        st.write("""I am a data science and mathematics enthusiast currently pursuing a Masters degree in Applied Data Science at the University of Southern California. I received my Bachelors degree in Mathematics with \n
-a minor in Physics from Santa Clara University. My technical skills include proficiency in Python and I am knowledgeable in statistical/machine learning.\n
+        st.write("""I am a data science and mathematics enthusiast currently pursuing a Masters degree in Applied Data Science at the University of Southern California. I received my Bachelors degree in Mathematics with a minor in Physics from Santa Clara University. My technical skills include proficiency in Python and I am knowledgeable in statistical/machine learning.\n
 In my previous internship at Intel Corporation, I developed and implemented automated solutions to improve workflow efficiency as a software technical consulting engineer. \n
 I am seeking opportunities to utilize my skills and experience to make a positive impact in the data science field. \n
 Feel free to connect with me to learn more about my background and how I can contribute to your organization!

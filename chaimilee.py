@@ -13,6 +13,7 @@ import requests
 def main():
     st.header("Chaimi Lee")
     st.subheader("Data Science and Mathematics Enthusiast")
+    st.write("\n")
     with st.container():
         image_col, text_col = st.columns((1,2))
     with image_col:

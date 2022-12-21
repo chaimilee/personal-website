@@ -11,6 +11,7 @@ import requests
 
 
 def main():
+    st.set_page_config(layout="wide")
     st.header("Chaimi Lee")
     st.subheader("Data Science and Mathematics Enthusiast")
     st.write("\n")
